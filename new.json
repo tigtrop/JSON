@@ -1,4 +1,6 @@
-Mike D.
-24
-2 pets
-10000$
+{
+"FirstName" : "Mike",
+"LastName" : "D.",
+"PetsCount" : "2",
+"FutureSalary" : "10000$"
+}
