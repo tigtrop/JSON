@@ -1,1 +1,16 @@
-
+{
+"Bug_id":"35",
+"Title":"The app crashes after clicking the “add widget” button.",
+"Severity": "Crash",
+"Priority":"High",
+"Environment":"Huawei Mate 10 Lite Android 8.0, EMUI 8",
+"Precondition":"App is installed.",
+"StepsToReproduce":{
+"1":"Open the app.",
+"2":"Press the “add widget” button.",
+"3":"Pay attention to the screen."
+},
+"ActualResult":"The app crashes after clicking the “add widget” button.",
+"ExprectedResult":"The widget is added to the screen after clicking the “add widget” button.",
+"Attachments":"https://drive.google.com/file/d/1d66w0_MdHtpD7w-BA8q_a5MxGcLK6hrN/view?usp=sharing"
+}
